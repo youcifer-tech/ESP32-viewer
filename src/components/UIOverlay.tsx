@@ -1,4 +1,3 @@
-import React from 'react';
 import { ComponentInfo } from '../data/components';
 
 interface UIOverlayProps {
