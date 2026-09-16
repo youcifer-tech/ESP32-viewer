@@ -4,7 +4,8 @@ An interactive, high-performance 3D hardware explorer built to bridge the gap be
 
 Built as part of my Electrical and Computer Engineering (ECE) portfolio.
 
-![UI Preview](https://via.placeholder.com/1000x500?text=ESP32+3D+Viewer+-+Replace+With+Screenshot)
+Website preview
+https://esp32-viewer-taupe.vercel.app/
 
 ## ✨ Features
 
